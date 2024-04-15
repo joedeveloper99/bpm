@@ -1,2 +1,2 @@
 # bpm
-Blood Preasure Monitor
+Blood Pressure Monitor
